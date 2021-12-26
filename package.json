@@ -1,6 +1,6 @@
 {
   "name": "is-offline-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check is offline or not in node",
   "keywords": [
     "is-offline",
