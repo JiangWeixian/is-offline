@@ -6,6 +6,9 @@
     "is-offline",
     "node"
   ],
+  "engines": {
+    "node": ">12"
+  },
   "license": "MIT",
   "homepage": "https://github.com/JiangWeixian/is-offline#readme",
   "repository": {
