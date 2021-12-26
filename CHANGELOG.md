@@ -1,5 +1,11 @@
 # is-offline-node
 
+## 1.0.0
+
+### Major Changes
+
+- bbd544e: native module
+
 ## 0.0.2
 
 ### Patch Changes
