@@ -24,7 +24,8 @@
     "email": "jiangweixian1994@gmail.com",
     "url": "https://twitter.com/jiangweixian"
   },
-  "main": "lib/index.js",
+  "type": "module",
+  "module": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib"
