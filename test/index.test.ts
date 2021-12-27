@@ -1,4 +1,4 @@
-import isOffline from '../src'
+import isOffline from '../lib'
 
 describe('is offline node', () => {
   test('should work', async () => {
